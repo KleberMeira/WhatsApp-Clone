@@ -5,11 +5,11 @@
 
 
 
-### <pre> Alunos:                                RGA:</pre>
+### <pre>Alunos:                                        RGA:</pre>
 <pre>
-Kleber Meira Lima				        2017.1906.117-3
-Robson Pimenta Moura Junior                             2018.1906.033-0
-</pre>
+          Kleber Meira Lima				         2017.1906.117-3
+          Robson Pimenta Moura Junior                            2018.1906.033-0
+</pre>  
 
 
 ## Visão Geral
